@@ -1,0 +1,1 @@
+Najpierw wyświetli się alert z liczbą 1 potem z liczbą 2

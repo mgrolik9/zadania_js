@@ -1,0 +1,2 @@
+Nie
+else nie jest potrzebny dzieki  return

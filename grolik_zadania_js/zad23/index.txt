@@ -1,0 +1,1 @@
+wyświetli się najpierw liczba 1 a następnie undefined
